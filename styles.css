@@ -1,0 +1,51 @@
+/*******************************************************************************/
+/* Fecha Creación: 15 Febrero 2021.                                            */
+/* Autor:          Iván Fonseca Castro                                         */
+/*                                                                             */
+/* Descripción:    Hoja principal de estilos, permite personalizar los estilos */
+/*                 a utilizar en los componentes del sitio Web.                */
+/*******************************************************************************/
+
+body{
+    background: green;
+}
+
+.mainContainer{
+    margin: 20px 300px 0px 300px;
+    height: 500px;
+}
+
+.mainCard{
+    background: white;
+    margin: 0px 300px 0px 0px;
+    height: 13.2cm;
+    width: 8.55cm;
+    border-radius: 25px;
+}
+
+#part1Card {
+    margin: 0;
+    height: 3cm;
+}
+
+#part2Card {
+    display: flex;
+    margin: 0;
+    height: 7.2cm;
+    text-align: center;
+}
+
+#part3Card {
+    margin: 0;
+    height: 3cm;
+}
+
+.suitCard{
+    font-size: 87px;
+    color: black;
+}
+
+.numberCard{
+    font-size: 150px;
+    color: black;
+}
